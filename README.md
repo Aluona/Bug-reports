@@ -11,3 +11,7 @@
 Для мобильного приложения Wildberries:
 
 5. https://docs.google.com/document/d/1tmdBG_kWZoT8Pkc6kJyZ3bZ2njKDw-nwYUVP7KdvZgI/edit?usp=sharing
+
+Для сайта https://fix-price.com/:
+
+6. https://docs.google.com/document/d/1z3kkGuLHlfTb3DFNCx9hv8t81eSFTjOuLlr85JTcsKQ/edit?usp=sharing
