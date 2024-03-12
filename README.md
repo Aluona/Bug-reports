@@ -8,7 +8,7 @@ I Для сайта доставки пиццы https://eda72.com/:
 3. https://docs.google.com/document/d/1kyYV4y5l1TY3WHgwRq_33muEY-UnpJOzJJY6TbtuM_8/edit?usp=sharing
 4. https://docs.google.com/document/d/1qUCIA33IW5vwUX-TbQI1dvYpAI2xvZNxqdjSvAngncQ/edit?usp=sharing
 
-II Для мобильного приложения Wildberries:
+II Для мобильного приложения Wildberries (iOS):
 
 5. https://docs.google.com/document/d/1tmdBG_kWZoT8Pkc6kJyZ3bZ2njKDw-nwYUVP7KdvZgI/edit?usp=sharing
 
