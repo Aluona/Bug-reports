@@ -15,3 +15,9 @@ II Для мобильного приложения Wildberries (iOS):
 III Для сайта https://fix-price.com/:
 
 6. https://docs.google.com/document/d/1z3kkGuLHlfTb3DFNCx9hv8t81eSFTjOuLlr85JTcsKQ/edit?usp=sharing
+
+IV Для мобильного приложения ВКонтакте:
+1. https://docs.google.com/document/d/1O-kmpn6_slR2_AnVqE_A8R_4X7akL8fHK0S0SUmjJzE/edit?usp=sharing
+2. https://docs.google.com/document/d/1ZwR27DNlQSPVDWE63-LPDj1FRG1XIO3rdSocfikn_tE/edit?usp=sharing
+3. https://docs.google.com/document/d/1ssbXwxzXlPGiSfnbk30qBLgjWhb3fOsorcqiWibLfxY/edit?usp=sharing
+4. https://docs.google.com/document/d/1DKy25BAsh7xe3KJvRnsLdo8K22NMSkA-Ofr9O4hXyhY/edit?usp=sharing
