@@ -21,3 +21,6 @@ IV Для мобильного приложения ВКонтакте (iOS):
 2. https://docs.google.com/document/d/1ZwR27DNlQSPVDWE63-LPDj1FRG1XIO3rdSocfikn_tE/edit?usp=sharing
 3. https://docs.google.com/document/d/1ssbXwxzXlPGiSfnbk30qBLgjWhb3fOsorcqiWibLfxY/edit?usp=sharing
 4. https://docs.google.com/document/d/1DKy25BAsh7xe3KJvRnsLdo8K22NMSkA-Ofr9O4hXyhY/edit?usp=sharing
+5. https://docs.google.com/document/d/1cuL6ELhdQLti8OqTvMxkVSOz-IxL2KhZu_Iy80b790s/edit?usp=sharing
+6. https://docs.google.com/document/d/1VrJKzRQR75hKCgGLYA1uXuLcpUE4jqvxbvkIOp6yZ7c/edit?usp=sharing
+7. https://docs.google.com/document/d/1Nq1_H6sSCYivhKV666FDcBF-N9GkpSzlCDrNPMY4VIY/edit?usp=sharing
